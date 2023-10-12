@@ -11,4 +11,4 @@ Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 - Como solução foi adicionado uma entidade chamada PAGAMENTO onde é armazenado a forma de pagamento do cliente (Exemplo: Cartão de Crédito) e um relacionamento com o pedido através da entidade PAGAMENTO_DO_PEDIDO para poder localizar o cartão de crédito já cadastrado pelo cliente.
 
 Entrega – Possui status e código de rastreio;
-- Neste caso foi adiconado uma entedida chamada ENTREGA que foi relacionada com a tabela de PEDIDO
+- Neste caso foi adicionada uma entidade chamada ENTREGA que foi relacionada com a tabela de PEDIDO
